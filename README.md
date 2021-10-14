@@ -1,9 +1,7 @@
 ## 👋 Welcome to my GitHub! 👋
 
-:boy: I'm Martin
-
-:underage: I'm 21 years old
-
+:boy: I'm Martin<br />
+:underage: I'm 21 years old<br />
 :round_pushpin: From Denmark
 
 
@@ -16,9 +14,7 @@
 - 🤔 I’m looking for help with different cool Xamarin.Forms technologies
 - 💬 Ask me about C#, Razor Pages, Blazor, MQTT/I2C/SPI etc., Embedded, .NET in general...
 - 📫 How to reach me: reach me on my LinkedIn profile
-
 <br />
-
 My LinkedIn profile:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/martin-sonne-0449a821a/)
