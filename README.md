@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Welcome to my GitHub! 👋 </h1>
 
 <div  align="center">
-:boy: I'm Martin<br />
+:boy: My name is Martin<br />
 :underage: I'm 21 years old<br />
 :round_pushpin: From Denmark<br /><br />
   
