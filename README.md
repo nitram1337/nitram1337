@@ -13,8 +13,8 @@ My LinkedIn profile:<br />
 <br />
 
 
-- 🔭 I’m currently working on a mobile app using Xamarin.Forms with a web API and a IdentityServer for Authentication
-- 🌱 I’m currently learning more and more about Xamarin.Forms while the current project progresses
+- 🔭 I’m currently working on a mobile app for iOS and Android, with more than 800.000 downloads in Denmark alone
+- 🌱 I’m currently learning more and more about Flutter and making a switch to this technology, from Xamarin/MAUI
 - 👯 I’m looking to collaborate on any exciting and instructive projects and love to learn, whether it is about .NET or any other great technology in general!
 - 💬 Ask me about C#, Razor Pages, Blazor, MQTT/I2C/SPI etc., Embedded, .NET in general...
 - 📫 How to reach me: reach me on my LinkedIn profile<br /><br />
